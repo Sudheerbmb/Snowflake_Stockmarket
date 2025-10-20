@@ -1,0 +1,6 @@
+kafka-python==2.2.15
+boto3==1.40.55
+snowflake-connector-python==3.14.1
+dbt-core==1.10.13
+dbt-snowflake==1.10.2
+requests==2.32.4
